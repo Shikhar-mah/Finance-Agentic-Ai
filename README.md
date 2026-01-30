@@ -1,7 +1,3 @@
-Here’s a **clean, original, and submission-ready `README.md`** tailored exactly to your **Agno-based multi-agent financial advisor project**. You can copy-paste this directly into your repo.
-
----
-
 # 📊 Agentic Financial Advisor using Agno
 
 An **agent-based AI financial analysis system** built using the **Agno framework**, designed to provide structured, explainable **short-term and long-term investment insights** by coordinating multiple specialized AI agents.
