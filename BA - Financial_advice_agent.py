@@ -32,7 +32,6 @@ Overview of the Project/How the code Flows:
 import os
 from dotenv import load_dotenv
 from agno.agent import Agent
-from agno.models.openrouter import OpenRouter
 from agno.models.groq import Groq
 from agno.tools.duckduckgo import DuckDuckGoTools
 from agno.tools.yfinance import YFinanceTools
